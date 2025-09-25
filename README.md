@@ -1,8 +1,8 @@
-## Sentiment Analysis on Google Play Store App
+## Sentiment Analysis on Google Play Store App Dataset
 
 ### Introduction
 
-This repository contains three Jupyter notebooks for Analysis and Sentiment Analysis of Google Play Store Apps. 
+This repository contains three Jupyter notebooks for Analysis and Sentiment Analysis of Google Play Store Apps Dataset. 
 
 ### Overview
 **Part 1: Exploration**
