@@ -1,0 +1,17 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+pathlib
+tqdm
+dotenv
+nltk
+pydantic
+langchain
+langchain-ollama
+# langchain-openai
+# pprint
+sentence_transformers
+scikit-learn
+faiss-cpu
